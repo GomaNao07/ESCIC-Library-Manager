@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ESCIC-Library-Manager": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
